@@ -1,0 +1,1 @@
+https://gg-bot-skill.azurewebsites.net/manifests/userTokenSkill-2-1-manifest.json
